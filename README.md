@@ -23,7 +23,7 @@ project layout.
 │   ├── README.md                   # data source notes
 │   └── cache/                      # committed snapshots (small .rds files)
 └── output/
-    └── portfolio-ga-analysis.pdf   # rendered report
+    └── portfolio-ga-analysis.pdf   # rendered report (generated: run the steps below)
 ```
 
 ## Methodology in one paragraph

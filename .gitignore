@@ -30,3 +30,6 @@ Icon
 ._*
 .vscode/
 .idea/
+
+# rendered reports are build output
+*.pdf
